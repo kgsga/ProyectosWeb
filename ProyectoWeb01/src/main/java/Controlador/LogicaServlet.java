@@ -38,6 +38,10 @@ public class LogicaServlet extends HttpServlet {
             out.println("</head>");
             out.println("<body>");
             out.println("<h1>Servlet LogicaServlet at " + request.getContextPath() + "</h1>");
+            out.println("<h2>IVAN PETRLIK AZABACHE ES GANADOR</h2>");
+            out.println("<h3>IVAN PETRLIK AZABACHE ES GANADOR</h3>");
+            out.println("<h4>IVAN PETRLIK AZABACHE ES GANADOR</h4>");
+            out.println("<h5>IVAN PETRLIK AZABACHE ES GANADOR</h5>");
             out.println("</body>");
             out.println("</html>");
         }
